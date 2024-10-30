@@ -206,7 +206,7 @@ Please note that, pursuant to 17 U.S.C. § 512(f), any misrepresentation of mate
   ```
 
 * **10.9 Users in the European Economic Area.**
-  If you are located in the European Economic Area (EEA), you have certain rights regarding your personal data under the GDPR. These rights include access, rectification, erasure, restriction of processing, data portability, and objection to processing. You may exercise these rights by contacting us at \[privacy@keeplist.io]."
+  If you are located in the European Economic Area (EEA), you have certain rights regarding your personal data under the GDPR. These rights include access, rectification, erasure, restriction of processing, data portability, and objection to processing. You may exercise these rights by contacting us at \[team@keeplist.io]."
 
 * **10.10 International Data Transfers**
   We may transfer your personal data to countries outside the European Economic Area (EEA). In such cases, we ensure appropriate safeguards are in place to protect your data, such as Standard Contractual Clauses approved by the European Commission or other lawful mechanisms.
